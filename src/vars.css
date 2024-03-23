@@ -1,10 +1,10 @@
-.root {
-    color-text: white;
-    primaryColor: rgb(82, 82, 216);
-    secondary-color: rgb(20, 20, 90);
-    color-dark: rgb(32, 28, 28);
-    --color-bg: rgb(64, 54, 54);
+:root {
+    --color-text: #c31313;
+    --color-primary: #576cbc;
+    --color-secondary: #19376d;
+    --color-dark: #0b2447;
+    --color-bg: #04152d;
 
-    font: roboto;
+    --font-roboto: "Roboto";
 }
 
