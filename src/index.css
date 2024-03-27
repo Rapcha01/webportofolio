@@ -1,7 +1,11 @@
-. {
+ * {
   box-sizing: border-box;
   margin: 0px;
   padding: 0px;
   font-family: "outfit", "arial", "Helvetica";
 
+}
+
+html {
+  scroll-behavior: smooth;
 }
